@@ -1,0 +1,67 @@
+.col1, .col2 {
+    margin-top: 20px;
+}
+
+.size-styling {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.but-border {
+    border-radius: 50%;
+    height: 50px;
+    width: 30px;
+    font-weight: bold;
+}
+
+.rate-number, .rate-button {
+    font-weight: bold;
+}
+
+.products-found {
+    font-weight: bold;
+}
+
+.order-criterion {
+    float: right;
+    margin-top: -35px;
+}
+
+.below-image {
+    font-weight: bold;
+    text-align: center;
+}
+
+hr {
+    text-align: center;
+    width: 20%;
+    height: 2px;
+    background-color: yellow;
+}
+
+.items .shipping-type {
+    float: right;
+    color: white;
+    background-color: black;
+}
+
+.items > img {
+    float: left;
+}
+
+.big-price-lable {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#add {
+    width: 100%;
+    color: white;
+    background-color: black;
+    border: none;
+    height: 40px;
+}
+
+.price {
+    text-align: center;
+}

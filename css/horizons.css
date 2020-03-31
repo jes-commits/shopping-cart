@@ -1,0 +1,16 @@
+.flag {
+    height: 30px;
+    width: 100%;
+}
+.flag, .link {
+    margin-top: 20px;
+}
+
+.logo {
+    margin-top:-50px;
+}
+
+.link {
+    text-transform: uppercase;
+}
+
